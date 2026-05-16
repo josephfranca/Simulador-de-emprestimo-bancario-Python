@@ -53,7 +53,7 @@ Certifique-se de possuir o Python 3 instalado no seu computador. Você pode faze
    cd Simulador-de-emprestimo-bancario-Python
 3.**Executando o projeto**
    ```bash
-python "Simulador de emprestimo.py"
+   python "Simulador de emprestimo.py"
  
 
 
