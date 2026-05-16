@@ -49,7 +49,11 @@ Certifique-se de possuir o Python 3 instalado no seu computador. Você pode faze
    ```bash
    git clone https://github.com/josephfranca/Simulador-de-emprestimo-bancario-Python.git
 2. **Navegue até a pasta onde clonou o projeto:**
-```bash
+   ```bash
    cd Simulador-de-emprestimo-bancario-Python
+3.**Executando o projeto**
+   ```bash
+python "Simulador de emprestimo.py"
+ 
 
-teste
+
